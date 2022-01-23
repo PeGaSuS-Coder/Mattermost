@@ -1,6 +1,6 @@
 <h1>Disclaimer for PTirc Mattermost</h1>
 
-<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at ptirc@protonmail.com</p>
+<p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at support@ptirc.org</p>
 
 <h2>Disclaimers for PTirc Mattermost</h2>
 
