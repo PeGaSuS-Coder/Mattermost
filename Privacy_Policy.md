@@ -2,7 +2,7 @@
 
 <p>At PTirc Mattermost, accessible from https://mattermost.ptirc.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by PTirc Mattermost and how we use it.</p>
 
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:mattermost@ptirc.org">mattermost@ptirc.org</a>.</p>
 
 <h2>Log Files</h2>
 
