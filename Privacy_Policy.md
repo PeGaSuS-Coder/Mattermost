@@ -43,3 +43,6 @@
 <h2>Consent</h2>
 
 <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
+
+
+[Hosted version](https://www.privacypolicyonline.com/live.php?token=Xkpzl5h9NFVS7DD4Cn1tqHDGl0XUwWzt)
