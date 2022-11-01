@@ -17,6 +17,3 @@
 <h2>Update</h2>
 
 <p>Should we update, amend or make any changes to this document, those changes will be prominently posted here.</p>
-
-
-[Hosted version](https://www.privacypolicyonline.com/live.php?token=4lPffCVNj3EW0AZ9phPvXDuCdPah8n1P)
