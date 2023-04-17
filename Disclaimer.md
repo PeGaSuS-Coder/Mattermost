@@ -1,6 +1,10 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=VOW8fulnNUcowF1xu6AjbwO4cSf8cFc6 -->
-<h2>Idiomas/Languages</h2>
-[Portugues](
+<h1>Idiomas/Languages</h1>  
+[Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Disclaimer.md#isen%C3%A7%C3%A3o-de-responsabilidade-para-the-tales)  
+[English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Disclaimer.md#disclaimer-for-the-tales)
+
+----
+
 <h1>Isenção de responsabilidade para The Tales</h1>
 
 <p>Se você precisar de mais informações ou tiver alguma dúvida sobre o aviso legal do nosso site, sinta-se à vontade para entrar em contato conosco pelo e-mail thetalesxyz@gmail.com</p>
