@@ -1,4 +1,126 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=zDo500iv6J2IfmRU09QR2Oj5Z3zvfqQV -->
+<h2><strong>Termos e Condições</strong></h2>
+
+<p>Bem-vindo ao The Tales!</p>
+
+<p>Estes termos e condições descrevem as regras e regulamentos para o uso do site The Tales, localizado em https://thetales.xyz/.</p>
+
+<p>Ao aceder a este website assumimos que aceita estes termos e condições. Não continue a usar The Tales se não concordar com todos os termos e condições estabelecidos nesta página.</p>
+
+<p>A seguinte terminologia se aplica a estes Termos e Condições, Declaração de Privacidade e Aviso de Isenção de Responsabilidade e a todos os Contratos: "Cliente", "Você" e "Seu" referem-se a você, a pessoa acessa este site e está em conformidade com os termos e condições. "A Empresa", "Nós mesmos", "Nós", "Nosso" e "Nós", refere-se à nossa Empresa. "Parte", "Partes" ou "Nós" refere-se tanto ao Cliente quanto a nós mesmos. Todos os termos referem-se à oferta, aceitação e contraprestação do pagamento necessário para realizar o processo de nosso atendimento ao Cliente da maneira mais adequada para o propósito expresso de atender às necessidades do Cliente quanto à prestação dos serviços declarados da Empresa, de acordo com e sujeito à lei vigente de fr. Qualquer uso da terminologia acima ou outras palavras no singular, plural, letras maiúsculas e/ou ele/ela ou eles são considerados intercambiáveis e, portanto, como se referindo aos mesmos. Nossos Termos e Condições foram criados com a ajuda do <a href="https://www.termsfeed.com/terms-conditions-generator/">Gerador de Termos e Condições</a>.</p>
+
+<h3><strong>Cookies</strong></h3>
+
+<p>Empregamos o uso de cookies. Ao acessar o The Tales, você concorda em usar cookies de acordo com a Política de Privacidade do The Tales.</p>
+
+<p>A maioria dos sites interativos usa cookies para nos permitir recuperar os detalhes do usuário para cada visita. Os cookies são usados pelo nosso site para permitir a funcionalidade de determinadas áreas para facilitar as pessoas que visitam nosso site. Alguns de nossos afiliados/parceiros de publicidade também podem usar cookies.</p>
+
+<h3><strong>Licença</strong></h3>
+
+<p>Salvo indicação em contrário, The Tales e/ou seus licenciadores detêm os direitos de propriedade intelectual de todo o material de The Tales. Todos os direitos de propriedade intelectual são reservados. Você pode acessá-lo no The Tales para seu uso pessoal, sujeito às restrições definidas nestes termos e condições.</p>
+
+<p>Você não deve:</p>
+<ul>
+     <li>Republicar material de The Tales</li>
+     <li>Vender, alugar ou sublicenciar material de The Tales</li>
+     <li>Reproduzir, duplicar ou copiar material de The Tales</li>
+     <li>Redistribua o conteúdo de The Tales</li>
+</ul>
+
+<p>Este Contrato terá início nesta data.</p>
+
+<p>Partes deste site oferecem uma oportunidade para os usuários postarem e trocarem opiniões e informações em determinadas áreas do site. The Tales não filtra, edita, publica ou revisa Comentários antes de sua presença no site. Os comentários não refletem as visões e opiniões de The Tales, seus agentes e/ou afiliados. Os comentários refletem os pontos de vista e opiniões da pessoa que publica seus pontos de vista e opiniões. Na medida permitida pelas leis aplicáveis, The Tales não será responsável pelos Comentários ou por qualquer responsabilidade, danos ou despesas causados e/ou sofridos como resultado de qualquer uso e/ou publicação e/ou aparição dos Comentários em este site.</p>
+
+<p>A The Tales reserva-se o direito de monitorizar todos os Comentários e remover quaisquer Comentários que possam ser considerados inapropriados, ofensivos ou que infrinjam estes Termos e Condições.</p>
+
+<p>Você garante e declara que:</p>
+
+<ul>
+     <li>Você tem o direito de postar os Comentários em nosso site e possui todas as licenças e autorizações necessárias para fazê-lo;</li>
+     <li>Os Comentários não invadem nenhum direito de propriedade intelectual, incluindo, sem limitação, direitos autorais, patentes ou marcas registradas de terceiros;</li>
+     <li>Os comentários não contêm nenhum material difamatório, calunioso, ofensivo, indecente ou de outra forma ilegal que seja uma invasão de privacidade</li>
+     <li>Os Comentários não serão usados para solicitar ou promover negócios ou costumes ou apresentar atividades comerciais ou atividades ilegais.</li>
+</ul>
+
+<p>Você concede ao The Tales uma licença não exclusiva para usar, reproduzir, editar e autorizar outros a usar, reproduzir e editar qualquer um dos seus comentários em todas e quaisquer formas, formatos ou mídia.</p>
+
+<h3><strong>Hiperlink para nosso conteúdo</strong></h3>
+
+<p>As seguintes organizações podem vincular-se ao nosso site sem aprovação prévia por escrito:</p>
+
+<ul>
+     <li>Agências governamentais;</li>
+     <li>Mecanismos de busca;</li>
+     <li>Organizações de notícias;</li>
+     <li>Os distribuidores de diretórios on-line podem se conectar ao nosso site da mesma maneira que fazem hiperlinks para os sites de outras empresas listadas; e</li>
+     <li>Empresas credenciadas em todo o sistema, exceto organizações sem fins lucrativos, shoppings de caridade e grupos de arrecadação de fundos de caridade que não podem ter links para nosso site.</li>
+</ul>
+
+<p>Essas organizações podem ter links para nossa página inicial, para publicações ou para outras informações do site, desde que o link: (a) não seja de forma alguma enganoso; (b) não implica falsamente patrocínio, endosso ou aprovação da parte vinculante e seus produtos e/ou serviços; e (c) se encaixa no contexto do site da parte vinculada.</p>
+
+<p>Podemos considerar e aprovar outras solicitações de links dos seguintes tipos de organizações:</p>
+
+<ul>
+     <li>fontes de informações de consumidores e/ou empresas comumente conhecidas;</li>
+     <li>sites da comunidade ponto.com;</li>
+     <li>associações ou outros grupos que representam instituições de caridade;</li>
+     <li>distribuidores de diretórios on-line;</li>
+     <li>portais de internet;</li>
+     <li>escritórios de contabilidade, advocacia e consultoria; e</li>
+     <li>instituições educacionais e associações comerciais.</li>
+</ul>
+
+<p>Aprovaremos as solicitações de link dessas organizações se decidirmos que: (a) o link não nos fará parecer desfavoravelmente para nós mesmos ou para nossos negócios credenciados; (b) a organização não possui registros negativos conosco; (c) o benefício para nós da visibilidade do hiperlink compensa a ausência de The Tales; e (d) o link está no contexto de informações gerais sobre recursos.</p>
+
+<p>Essas organizações podem ter links para nossa página inicial, desde que o link: (a) não seja de forma alguma enganoso; (b) não implica falsamente patrocínio, endosso ou aprovação da parte vinculante e seus produtos ou serviços; e (c) se encaixa no contexto do site da parte vinculada.</p>
+
+<p>Se você é uma das organizações listadas no parágrafo 2 acima e está interessado em criar um link para nosso site, você deve nos informar enviando um e-mail para The Tales. Inclua seu nome, nome da sua organização, informações de contato, bem como a URL do seu site, uma lista de todas as URLs das quais você pretende se conectar ao nosso site e uma lista das URLs em nosso site às quais você gostaria de link. Aguarde de 2 a 3 semanas por uma resposta.</p>
+
+<p>As organizações aprovadas podem criar links para nosso site da seguinte forma:</p>
+
+<ul>
+     <li>Através do uso de nosso nome corporativo; ou</li>
+     <li>Pelo uso do localizador de recursos uniforme ao qual está vinculado; ou</li>
+     <li>Ao usar qualquer outra descrição de nosso site vinculado a isso que faça sentido dentro do contexto e formato do conteúdo do site da parte vinculante.</li>
+</ul>
+
+<p>Nenhum uso do logotipo do The Tales ou outra arte será permitido para vincular um contrato de licença de marca comercial ausente.</p>
+
+<h3><strong>iFrames</strong></h3>
+
+<p>Sem aprovação prévia e permissão por escrito, você não pode criar molduras em nossas páginas da Web que alterem de alguma forma a apresentação visual ou a aparência de nosso site.</p>
+
+<h3><strong>Responsabilidade pelo conteúdo</strong></h3>
+
+<p>Não nos responsabilizamos por qualquer conteúdo que apareça em seu site. Você concorda em nos proteger e nos defender contra todas as reivindicações que surgirem em seu site. Nenhum link deve aparecer em qualquer site que possa ser interpretado como calunioso, obsceno ou criminoso, ou que infrinja, viole ou defenda a infração ou outra violação de quaisquer direitos de terceiros.</p>
+
+<h3><strong>Reserva de direitos</strong></h3>
+
+<p>Reservamos o direito de solicitar que você remova todos os links ou qualquer link específico para nosso site. Você aprova a remoção imediata de todos os links para nosso site mediante solicitação. Também nos reservamos o direito de alterar estes termos e condições e sua política de links a qualquer momento. Ao vincular-se continuamente ao nosso site, você concorda em cumprir e seguir estes termos e condições de vinculação.</p>
+
+<h3><strong>Remoção de links do nosso site</strong></h3>
+
+<p>Se você encontrar algum link em nosso site que seja ofensivo por qualquer motivo, fique à vontade para entrar em contato e nos informar a qualquer momento. Consideraremos solicitações para remover links, mas não somos obrigados a isso ou a responder diretamente a você.</p>
+
+<p>Não garantimos que as informações contidas neste site estejam corretas, não garantimos sua integridade ou precisão; nem prometemos garantir que o site permaneça disponível ou que o material do site seja atualizado.</p>
+
+<h3><strong>Isenção de responsabilidade</strong></h3>
+
+<p>Na extensão máxima permitida pela lei aplicável, excluímos todas as representações, garantias e condições relacionadas ao nosso site e ao uso deste site. Nada neste aviso irá:</p>
+
+<ul>
+     <li>limitar ou excluir nossa ou sua responsabilidade por morte ou danos pessoais;</li>
+     <li>limitar ou excluir nossa ou sua responsabilidade por fraude ou deturpação fraudulenta;</li>
+     <li>limitar qualquer uma de nossas ou suas responsabilidades de qualquer forma que não seja permitida pela lei aplicável; ou</li>
+     <li>excluir qualquer uma de nossas ou suas responsabilidades que não possam ser excluídas pela lei aplicável.</li>
+</ul>
+
+<p>As limitações e proibições de responsabilidade definidas nesta Seção e em outras partes deste aviso legal: (a) estão sujeitas ao parágrafo anterior; e (b) regem todas as responsabilidades decorrentes do aviso de isenção de responsabilidade, incluindo responsabilidades decorrentes de contrato, delito e violação de dever estatutário.</p>
+
+<p>Desde que o site e as informações e serviços no site sejam fornecidos gratuitamente, não seremos responsáveis por qualquer perda ou dano de qualquer natureza.</p>
+
+----
+
 <h2><strong>Terms and Conditions</strong></h2>
 
 <p>Welcome to The Tales!</p>
