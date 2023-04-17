@@ -1,4 +1,28 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=VOW8fulnNUcowF1xu6AjbwO4cSf8cFc6 -->
+<h2>Idiomas/Languages</h2>
+[Portugues](
+<h1>Isenção de responsabilidade para The Tales</h1>
+
+<p>Se você precisar de mais informações ou tiver alguma dúvida sobre o aviso legal do nosso site, sinta-se à vontade para entrar em contato conosco pelo e-mail thetalesxyz@gmail.com</p>
+
+<h2>Isenções de responsabilidade para The Tales</h2>
+
+<p>Todas as informações deste site - https://thetales.xyz/ - são publicadas de boa fé e apenas para fins de informação geral. The Tales não oferece nenhuma garantia sobre a integridade, confiabilidade e precisão dessas informações. Qualquer ação que você tome sobre as informações que você encontra neste site (The Tales), é estritamente por sua conta e risco. The Tales não será responsável por quaisquer perdas e/ou danos relacionados com a utilização do nosso website. Nosso Isenção de responsabilidade foi gerado com a ajuda do <a href="https://www.termsfeed.com/disclaimer-generator/">Gerador de isenção de responsabilidade</a>.</p>
+
+<p>No nosso site, você pode visitar outros sites seguindo hiperlinks para esses sites externos. Embora nos esforcemos para fornecer apenas links de qualidade para sites úteis e éticos, não temos controle sobre o conteúdo e a natureza desses sites. Esses links para outros sites não implicam uma recomendação para todo o conteúdo encontrado nesses sites. Os proprietários e o conteúdo do site podem ser alterados sem aviso prévio e podem ocorrer antes de termos a oportunidade de remover um link que pode estar "ruim".</p>
+
+<p>Esteja também ciente de que quando você sai do nosso site, outros sites podem ter políticas e termos de privacidade diferentes que estão além do nosso controle. Certifique-se de verificar as Políticas de Privacidade desses sites, bem como seus "Termos de Serviço" antes de iniciar qualquer negócio ou fazer upload de qualquer informação.</p>
+
+<h2>Consentimento</h2>
+
+<p>Ao usar nosso site, você concorda com nosso aviso de isenção de responsabilidade e concorda com seus termos.</p>
+
+<h2>Atualizar</h2>
+
+<p>Caso atualizemos, alteremos ou façamos alterações neste documento, essas alterações serão publicadas aqui com destaque.</p>
+
+----
+
 <h1>Disclaimer for The Tales</h1>
 
 <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at thetalesxyz@gmail.com</p>
