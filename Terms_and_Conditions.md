@@ -1,5 +1,6 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=zDo500iv6J2IfmRU09QR2Oj5Z3zvfqQV -->
-### Idiomas | Languages
+<h1>Idiomas/Languages</h1>
+
 [Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Terms_and_Conditions.md#termos-e-condi%C3%A7%C3%B5es)  
 [English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Terms_and_Conditions.md#terms-and-conditions)
 
