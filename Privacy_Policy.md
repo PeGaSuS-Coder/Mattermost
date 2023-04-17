@@ -1,4 +1,51 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=vkftKsnREoCbQe5YXfEkAjtifYsHgREK -->
+<!-- https://www.privacypolicyonline.com/live.php?token=vkftKsnREoCbQe5YXfEkAjtifYsHgREK -->
+<h1>Política de Privacidade para The Tales</h1>
+
+<p>No The Tales, acessível em https://thetales.xyz/, uma das nossas principais prioridades é a privacidade dos nossos visitantes. Este documento da Política de Privacidade contém tipos de informações que são coletadas e registradas pelo The Tales e como as usamos.</p>
+
+<p>Se você tiver dúvidas adicionais ou precisar de mais informações sobre nossa Política de Privacidade, não hesite em nos contatar.</p>
+
+<h2>Arquivos de registro</h2>
+
+<p>O Tales segue um procedimento padrão de uso de arquivos de log. Esses arquivos registram os visitantes quando eles visitam sites. Todas as empresas de hospedagem fazem isso e fazem parte da análise dos serviços de hospedagem. As informações coletadas pelos arquivos de log incluem endereços de protocolo da Internet (IP), tipo de navegador, provedor de serviços de Internet (ISP), carimbo de data e hora, páginas de referência/saída e possivelmente o número de cliques. Estes não estão vinculados a nenhuma informação que seja pessoalmente identificável. O objetivo das informações é analisar tendências, administrar o site, rastrear o movimento dos usuários no site e coletar informações demográficas. Nossa Política de Privacidade foi criada com a ajuda do <a href="https://www.termsfeed.com/privacy-policy-generator/">Gerador de Política de Privacidade</a>.</p>
+
+<h2>Cookies e Web Beacons</h2>
+
+<p>Como qualquer outro site, The Tales usa "cookies". Esses cookies são usados para armazenar informações, incluindo as preferências dos visitantes e as páginas do site que o visitante acessou ou visitou. As informações são usadas para otimizar a experiência dos usuários, personalizando o conteúdo de nossa página da web com base no tipo de navegador dos visitantes e/ou outras informações.</p>
+
+
+
+<h2>Políticas de Privacidade</h2>
+
+<P>Você pode consultar esta lista para encontrar a Política de Privacidade de cada um dos parceiros de publicidade do The Tales.</p>
+
+<p>Servidores de anúncios ou redes de anúncios de terceiros usam tecnologias como cookies, JavaScript ou Web Beacons que são usados em seus respectivos anúncios e links que aparecem no The Tales, que são enviados diretamente para o navegador dos usuários. Eles recebem automaticamente seu endereço IP quando isso ocorre. Essas tecnologias são usadas para medir a eficácia de suas campanhas publicitárias e/ou para personalizar o conteúdo publicitário que você vê nos sites que visita.</p>
+
+<p>Observe que The Tales não tem acesso ou controle sobre esses cookies usados por anunciantes terceirizados.</p>
+
+<h2>Políticas de privacidade de terceiros</h2>
+
+<p>A Política de Privacidade da Tales não se aplica a outros anunciantes ou sites. Assim, aconselhamos a consulta das respectivas Políticas de Privacidade desses servidores de anúncios de terceiros para informações mais detalhadas. Pode incluir suas práticas e instruções sobre como cancelar certas opções. </p>
+
+<p>Você pode optar por desativar os cookies por meio das opções individuais do seu navegador. Para saber informações mais detalhadas sobre o gerenciamento de cookies com navegadores específicos, elas podem ser encontradas nos respectivos sites dos navegadores. O que são cookies?</p>
+
+<h2>Informações para crianças</h2>
+
+<p>Outra parte de nossa prioridade é adicionar proteção para crianças durante o uso da Internet. Incentivamos os pais e responsáveis a observar, participar e/ou monitorar e orientar suas atividades online.</p>
+
+<p>The Tales não coleta intencionalmente nenhuma informação pessoal identificável de crianças menores de 13 anos. Se você acha que seu filho forneceu esse tipo de informação em nosso site, recomendamos que você entre em contato conosco imediatamente e faremos o possível esforços para remover imediatamente essas informações de nossos registros.</p>
+
+<h2>Apenas Política de Privacidade Online</h2>
+
+<p>Esta Política de Privacidade se aplica apenas às nossas atividades online e é válida para os visitantes do nosso site no que diz respeito às informações que eles compartilharam e/ou coletaram no The Tales. Esta política não se aplica a nenhuma informação coletada offline ou por meio de outros canais que não este site.</p>
+
+<h2>Consentimento</h2>
+
+<p>Ao usar nosso site, você concorda com nossa Política de Privacidade e concorda com seus Termos e Condições.</p>
+
+----
+
 <h1>Privacy Policy for The Tales</h1>
 
 <p>At The Tales, accessible from https://thetales.xyz/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Tales and how we use it.</p>
