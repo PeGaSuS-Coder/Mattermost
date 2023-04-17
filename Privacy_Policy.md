@@ -1,5 +1,6 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=vkftKsnREoCbQe5YXfEkAjtifYsHgREK -->
-### Linguas disponiveis | Available languages
+<h1>Idiomas/Languages</h1>
+
 [Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Privacy_Policy.md#pol%C3%ADtica-de-privacidade-para-the-tales)  
 [English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Privacy_Policy.md#privacy-policy-for-the-tales)
 
