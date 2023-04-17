@@ -1,5 +1,6 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=VOW8fulnNUcowF1xu6AjbwO4cSf8cFc6 -->
-<h1>Idiomas/Languages</h1>  
+<h1>Idiomas/Languages</h1>
+
 [Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Disclaimer.md#isen%C3%A7%C3%A3o-de-responsabilidade-para-the-tales)  
 [English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Disclaimer.md#disclaimer-for-the-tales)
 
