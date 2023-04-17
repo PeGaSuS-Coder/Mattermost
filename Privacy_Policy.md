@@ -1,6 +1,10 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=vkftKsnREoCbQe5YXfEkAjtifYsHgREK -->
 ### Linguas disponiveis | Available languages
-[Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Privacy_Policy.md#pol%C3%ADtica-de-privacidade-para-the-tales)
+[Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Privacy_Policy.md#pol%C3%ADtica-de-privacidade-para-the-tales)  
+[English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Privacy_Policy.md#privacy-policy-for-the-tales)
+
+-----
+
 <h1>Política de Privacidade para The Tales</h1>
 
 <p>No The Tales, acessível em https://thetales.xyz/, uma das nossas principais prioridades é a privacidade dos nossos visitantes. Este documento da Política de Privacidade contém tipos de informações que são coletadas e registradas pelo The Tales e como as usamos.</p>
