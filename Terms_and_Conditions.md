@@ -1,7 +1,10 @@
 <!-- https://www.privacypolicyonline.com/live.php?token=zDo500iv6J2IfmRU09QR2Oj5Z3zvfqQV -->
-### Idiomas | Lnaguages
+### Idiomas | Languages
 [Portugues](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Terms_and_Conditions.md#termos-e-condi%C3%A7%C3%B5es)  
-[English]
+[English](https://github.com/PeGaSuS-Coder/Mattermost/blob/main/Terms_and_Conditions.md#terms-and-conditions)
+
+----
+
 <h2><strong>Termos e Condições</strong></h2>
 
 <p>Bem-vindo ao The Tales!</p>
