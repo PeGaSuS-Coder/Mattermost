@@ -12,7 +12,7 @@
 
 <h2>Isenções de responsabilidade para The Tales</h2>
 
-<p>Todas as informações deste site - https://thetales.xyz/ - são publicadas de boa fé e apenas para fins de informação geral. The Tales não oferece nenhuma garantia sobre a integridade, confiabilidade e precisão dessas informações. Qualquer ação que você tome sobre as informações que você encontra neste site (The Tales), é estritamente por sua conta e risco. The Tales não será responsável por quaisquer perdas e/ou danos relacionados com a utilização do nosso website. Nosso Isenção de responsabilidade foi gerado com a ajuda do <a href="https://www.termsfeed.com/disclaimer-generator/">Gerador de isenção de responsabilidade</a>.</p>
+<p>Todas as informações deste site - https://thetales.xyz/ - são publicadas de boa fé e apenas para fins de informação geral. The Tales não oferece nenhuma garantia sobre a integridade, confiabilidade e precisão dessas informações. Qualquer ação que você tome sobre as informações que você encontra neste site (The Tales), é estritamente por sua conta e risco. The Tales não será responsável por quaisquer perdas e/ou danos relacionados com a utilização do nosso website.</p>
 
 <p>No nosso site, você pode visitar outros sites seguindo hiperlinks para esses sites externos. Embora nos esforcemos para fornecer apenas links de qualidade para sites úteis e éticos, não temos controle sobre o conteúdo e a natureza desses sites. Esses links para outros sites não implicam uma recomendação para todo o conteúdo encontrado nesses sites. Os proprietários e o conteúdo do site podem ser alterados sem aviso prévio e podem ocorrer antes de termos a oportunidade de remover um link que pode estar "ruim".</p>
 
@@ -34,7 +34,7 @@
 
 <h2>Disclaimers for The Tales</h2>
 
-<p>All the information on this website - https://thetales.xyz/ - is published in good faith and for general information purpose only. The Tales does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (The Tales), is strictly at your own risk. The Tales will not be liable for any losses and/or damages in connection with the use of our website. Our Disclaimer was generated with the help of the <a href="https://www.termsfeed.com/disclaimer-generator/">Disclaimer Generator</a>.</p>
+<p>All the information on this website - https://thetales.xyz/ - is published in good faith and for general information purpose only. The Tales does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (The Tales), is strictly at your own risk. The Tales will not be liable for any losses and/or damages in connection with the use of our website.</p>
 
 <p>From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.</p>
 
