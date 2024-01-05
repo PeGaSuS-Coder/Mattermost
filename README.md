@@ -1,4 +1,4 @@
-# PTirc-Mattermost
-Stuff related to PTirc Mattermost Server
+# TheTales
+Stuff related to TheTales Mattermost Server
 
 ***WIP***
